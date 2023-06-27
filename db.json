@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task_name": "Subscribe to codeLogic"
+    },
+    {
+      "id": 2,
+      "task_name": "Welcome to logic code"
+    },
+    {
+      "id": 3,
+      "task_name": "First Project Angular"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Omar Dembele",
+      "email": "omardembele820@gmail.com",
+      "password": "123456",
+      "mobile": 777735624,
+      "id": 1
+    },
+    {
+      "fullname": "junior",
+      "email": "kaderdembele820@gmail.com",
+      "password": "987456",
+      "mobile": 774568789,
+      "id": 2
+    }
+  ]
+}
